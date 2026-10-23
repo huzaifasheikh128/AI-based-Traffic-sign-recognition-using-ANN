@@ -1,0 +1,6 @@
+1. Copy everything in this zip into your project1 folder
+   (server.py, class_names.py and the static folder). Your data and models folders stay where they are.
+2. Install Flask once:      python -m pip install flask
+3. From project1, run:      python server.py
+4. Open in your browser:    http://127.0.0.1:5000
+Stop the server with Ctrl + C in the terminal.
